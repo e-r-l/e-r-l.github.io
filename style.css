@@ -1,0 +1,51 @@
+a:link {
+    color: rgba(18, 29, 128, 0.877);
+    background-color: transparent;
+    text-decoration: none;
+    }
+          
+  a:visited {
+    color:rgba(127, 36, 212, 0.863);
+    background-color: transparent;
+    text-decoration: none;
+    }
+          
+a:hover {
+  color: rgb(75, 33, 226);
+  background-color: transparent;
+  text-decoration: underline;
+  }
+          
+a:active {
+  color: rgb(103, 16, 153);
+  background-color: transparent;
+  text-decoration: underline;
+  }
+
+body {
+background-color: rgba(102, 102, 109, 0.247);
+font-family:courier;
+}
+
+h1 {
+font-family: courier;
+}
+
+h2 {
+font-family: courier;
+}
+
+h3 {
+font-family: courier;
+}
+
+button {
+background-color: rgb(219, 30, 30);
+border: none;
+color: white;
+padding: 10px 29px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
